@@ -16,11 +16,11 @@ This project analyzes **product profitability** using the **Superstore dataset**
 - **Optimization**: Aggregated data for better dashboard performance.  
 
 ## 📷 Dashboard Preview  
-![Tableau Dashboard Preview](path/to/your/image.png) 
+![Tableau Dashboard Preview](https://github.com/yash-khobragade/Superstore-Sales-Analysis/blob/main/Superstore%20Sales%20Dashboard.png) 
 
 ## 📂 Project Files  
-- `Superstore_Profit_Analysis.twbx` – Packaged Tableau workbook.  
-- `Superstore_Dataset.xlsx` – Processed dataset used in analysis.  
+- `Superstore Sales Analysis.twbx` – Packaged Tableau workbook.  
+- `Superstore.xlsx` – Processed dataset used in analysis.  
 - `README.md` – Project documentation.  
 
 ## 📢 How to Use  
@@ -44,8 +44,7 @@ This project analyzes **product profitability** using the **Superstore dataset**
 
 ## 📩 Connect with Me  
 📧 Email: yashkhobragade198@gmail.com  
-🔗 LinkedIn:(https://www.linkedin.com/in/yashkhobragade/)  
-🐙 GitHub: (https://github.com/yash-khobragade/)  
+🔗 LinkedIn:https://www.linkedin.com/in/yashkhobragade/
 
 ---
 
